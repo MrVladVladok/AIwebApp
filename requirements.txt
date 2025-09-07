@@ -2,4 +2,3 @@ voila
 fastbook
 fastai
 ipywidgets
-python-3.11
